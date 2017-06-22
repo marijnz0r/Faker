@@ -7,7 +7,7 @@ class Color extends \Faker\Provider\Color
     protected static $safeColorNames = array(
         'zwart', 'kastanjebruin', 'donkergroen', 'marine', 'olijfgroen',
         'purper', 'groenblauw', 'limoen', 'blauw', 'zilver',
-        'grijs', 'geel', 'fuchsia', 'cyaan', 'wit',
+        'grijs', 'geel', 'fuchsia', 'cyaan', 'wit', 'paars',
     );
 
     protected static $allColorNames = array(
